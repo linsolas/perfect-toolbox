@@ -17,3 +17,13 @@ When I do not specify any price for an application, it means *normally* that thi
 An application that requires to buy a licence is marked with the icon ![Buy it](http://cdn1.iconfinder.com/data/icons/Sizicons/12x12/dollar.png "Buy it"). This icon is made by [Randomjabber](http://www.randomjabber.com).
 
 My personal favorites applications are marked with ![Lovin it](http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png "Lovin it"). This icon is made by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/).
+
+## Thanks
+
+Many of the tools (especially the ones for the Mac) have been suggested by people on Twitter. Thanks to them.
+
+* [David Gageot (@dgageot)](https://www.twitter.com/dgageot)
+* [Dimitri Baeli (@dbaeli)](https://www.twitter.com/dbaeli)
+* [Romain Maton (@rmat0n)](https://www.twitter.com/rmat0n)
+* [David Wursteisen(@dwursteisen)](https://www.twitter.com/dwursteisen)
+* [Julien Jakubowski (@jak78)](https://www.twitter.com/jak78)
