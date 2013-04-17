@@ -10,6 +10,16 @@ I work on both Windows (for work) and Mac (my personal computer) machines, so I 
 
 Do not hesitate to comment or PR if you have any suggestion.
 
+## Categories
+
+I've tried to split the tools in several categories:
+
+* ```Productivity, Utils, System```: tools that help you to be more productive, or that are dedicated to enhance the OS itself.
+* ```Development```: for development purposes. However, this is a specific category, as the tools you need for the development is extremely related to the languages you use. For example, if you work on Java projects, I will strongly encourage you to use [JetBrains IntelliJ](http://www.jetbrains.com/idea/), but not everybody works on Java!
+* ```Network, Communication```: tools for Internet, or collaborative work.
+* ```Miscellaneous```: any other tools.
+* ```To add?```
+
 
 ## Notes
 
