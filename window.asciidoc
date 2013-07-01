@@ -1,6 +1,13 @@
-
+:7zip: http://www.7-zip.org/
+:console2: http://sourceforge.net/projects/console/
+:ditto: http://ditto-cp.sourceforge.net/
+:processexplorer: http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx
 :pspad: http://http://www.pspad.com/en/
+:strokeit: http://www.tcbmi.com/strokeit/
 :sublimetext: http://www.sublimetext.com
+:unlocker: http://www.filehippo.com/download_unlocker/
+:printscreen: http://www.gadwin.com/printscreen/
+:launchy: http://www.launchy.net/
 
 
 == Productivity, Utils, System
@@ -8,9 +15,10 @@
 [cols="^,s,<,l",options="header"]
 |================================
 2+|  Name | Description | Price
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| image:http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png["Love it"] | {console2}[Console²] | An enhanced DOS command line, with multiple tabs, text edition, etc. | Free
+| image:http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png["Love it"] | {processexplorer}[Process Explorer] | An advanced task manager | Free
+|  | {unlocker}[Unlocker] | A small utility that helps you to get rid of locked resources. | Free
+|  |  |  | 
 |================================
 
 
@@ -22,8 +30,13 @@ image:http://cdn1.iconfinder.com/data/icons/Sizicons/12x12/dollar.png["Buy it"]
 [cols="^,s,<,l",options="header"]
 |================================
 2+|  Name | Description | Price
-|  | {pspad}[PsPad] |  | 
-| image:http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png["Love it"] | {sublimetext}[Sublime Text] |  | $70
+|  | {7zip}[7-Zip] | File archiver. | Free
+|  | {ditto}[Ditto] | An extension to the Windows clipboard, which saves the history of copy-pasted elements. | Free / $25 (Pro)
+|  | {printscreen}[Gadwin PrintScreen] | A free tool to create screenshots, with a lot of options... | Free
+|  | {pspad}[PsPad] | An advanced text editor. | Free
+| image:http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png["Love it"] | {sublimetext}[Sublime Text] | It is the current trendy text editor. It does a lot of things, and I really appreciate the multi-selections features, as well as its capability to search with a regular expression. It's not free ($70, which is a little bit expensive AMHO), but you can use it anyway (the application just displays periodically a popup). | $70
+| image:http://cdn1.iconfinder.com/data/icons/diagona/icon/10/032.png["Love it"] | {strokeit}[StrokeIt] | Executes command or starts a program with a mouse gesture. | $10
+|  | {Launchy}[Launchy] | A command bar to make searches, find and start an application. | Free
 |  |  |  | 
 |================================
 
@@ -48,4 +61,17 @@ image:http://cdn1.iconfinder.com/data/icons/Sizicons/12x12/dollar.png["Buy it"]
 |  |  |  | 
 |  |  |  | 
 |================================
+
+
+
+    PDF Creator: To transform any document to the PDF format (a new printer is added in your configuration).
+
+Development
+
+    Eclipse: Java development IDE.
+    Netbeans: Another Java development IDE, much better as Eclipse when you need to create Java application with Swing (this is my opinion ;o) ).
+
+Multimedia
+
+    XnView: A powerful image viewer. Also offers lot of conversion controls.
 
